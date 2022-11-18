@@ -1,4 +1,4 @@
-<h1 align="center">Это тема для WordPress - <a href='https://vk.com/arz.helper' target='_blank'>Arizona Helper</a></h1> 
+<h1 align="center">Это тема для WordPress - <a href='https://vk.com/kirillwxmx' target='_blank'>Arizona Helper</a></h1> 
 <h3>Функционал: </h3>
 <ul>
   <li>Изменение полностью содержимого сайта
